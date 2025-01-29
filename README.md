@@ -36,10 +36,8 @@ Libraries: nltk, sklearn, pandas, numpy
 
 Tools: Jupyter Notebook or Google Colab
 
-
 Future Improvements
 
 Add multi-class sentiment detection (e.g., emotions).
 
 Integrate with real-time social media data streams.
-
