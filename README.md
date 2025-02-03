@@ -27,7 +27,7 @@ Analyze text data to classify sentiments (positive, negative, or neutral) using 
 ---
 
 ## **Tech Stack**
-- **Programming Language**: Python
+- **Programming Language**: Python.
 - **Libraries**: `nltk`, `sklearn`, `pandas`, `numpy`
 - **Tools**: Jupyter Notebook or Google Colab
 
